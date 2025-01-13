@@ -49,6 +49,7 @@ Finish
 4. Enter you lancaster email or login with the box, this may be preceded with LANCS\
 
 E.g. LANCS\LA1TVFileServer
+
 I found email to work better. 
 
 Enter your uni credentials and you should be good to go!  
