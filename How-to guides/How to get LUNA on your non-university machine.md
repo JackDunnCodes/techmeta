@@ -38,7 +38,7 @@ This will bring up a “map network drive” wizard/dialogue box
 
 #### Drive details
 - Drive: Z:   (this wont have the address after it as mine is configured already)
-- Folder: \\luna.lancs.ac.uk\other\lusu\la1tv\general\current
+- Folder:  ``` \\luna.lancs.ac.uk\other\lusu\la1tv\general\current ```
 
 This can be copied directly from here 🙂
 
